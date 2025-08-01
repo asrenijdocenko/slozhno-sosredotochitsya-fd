@@ -5,9 +5,6 @@
 
 :root {
   --background-image: url('../images/cover-image-dark.png');
-<<<<<<< HEAD
-}
-=======
   --background-color: #000028;
   --accent-color: #FF0070;
   --title-color: #DB00FF;
@@ -20,4 +17,3 @@
   --corber-color: #FF0070;
   --title-decor-color: #000028;
 }
->>>>>>> origin/main

@@ -5,13 +5,6 @@
 */
 
 :root.theme-light {
-      --background-image: url('../images/cover-image-light.png');
-    --accent-color: #FF8DCB;
-    --title-color: #FFC2E6;
-    --text-color: #F1B2CE;
-    --link-outline-color-hover: #32312D66;
-    --link-outline-color-focus: #353430;
-}
   --background-image: url('../images/cover-image-light.png');
   --background-color: #FFF1F7;
   --accent-color: #FF8DCB;
