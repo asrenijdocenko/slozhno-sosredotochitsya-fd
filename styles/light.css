@@ -19,7 +19,7 @@
 }
   
 @media (prefers-color-scheme: light) {
-  :root {   
+  :root {
     --background-image: url('../images/cover-image-light.png');
     --background-color: #FFF1F7;
     --accent-color: #FF8DCB;

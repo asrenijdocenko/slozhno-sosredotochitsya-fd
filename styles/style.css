@@ -217,8 +217,8 @@ main {
   content: "";
   height: 25px;
   width: 25px;
-  border-top: 1px  solid var(--corber-color);
-  border-right: 1px  solid var(--corber-color);
+  border-top: 1px solid var(--corber-color);
+  border-right: 1px solid var(--corber-color);
   top: 10px;
   right: 10px;
 }
@@ -228,8 +228,8 @@ footer::after {
   content: "";
   height: 25px;
   width: 25px;
-  border-bottom: 1px  solid var(--corber-color);
-  border-left: 1px  solid var(--corber-color);
+  border-bottom: 1px solid var(--corber-color);
+  border-left: 1px solid var(--corber-color);
   bottom: 10px;
   left: 10px;
 }
@@ -266,8 +266,8 @@ footer::after {
     content: "";
     height: 25px;
     width: 25px;
-    border-top: 1px  solid var(--corber-color);
-    border-right: 1px  solid var(--corber-color);
+    border-top: 1px solid var(--corber-color);
+    border-right: 1px solid var(--corber-color);
     top: 20px;
     right: 20px;
   }
@@ -277,8 +277,8 @@ footer::after {
     content: "";
     height: 25px;
     width: 25px;
-    border-bottom: 1px  solid var(--corber-color);
-    border-left: 1px  solid var(--corber-color);
+    border-bottom: 1px solid var(--corber-color);
+    border-left: 1px solid var(--corber-color);
     bottom: 20px;
     left: 20px;
   }
@@ -330,9 +330,9 @@ footer::after {
   .main__list {
     grid-column: 1 / span 3;
     display: grid;
-    grid-template-columns: 0.5fr 1fr ;
+    grid-template-columns: 0.5fr 1fr;
     column-gap: 20px;
-    padding-bottom: 0px
+    padding-bottom: 0px;
   }
 
   .main__list_card-large {
@@ -437,8 +437,8 @@ footer::after {
     content: "";
     height: 25px;
     width: 25px;
-    border-top: 1px  solid var(--corber-color);
-    border-right: 1px  solid var(--corber-color);
+    border-top: 1px solid var(--corber-color);
+    border-right: 1px solid var(--corber-color);
     top: 20px;
     right: 20px;
   }
@@ -448,8 +448,8 @@ footer::after {
     content: "";
     height: 25px;
     width: 25px;
-    border-bottom: 1px  solid var(--corber-color);
-    border-left: 1px  solid var(--corber-color);
+    border-bottom: 1px solid var(--corber-color);
+    border-left: 1px solid var(--corber-color);
     bottom: 20px;
     left: 20px;
   }
